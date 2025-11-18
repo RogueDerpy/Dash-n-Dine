@@ -1,6 +1,8 @@
 import 'package:dash_n_dine/helpers/appcolors.dart';
 import 'package:dash_n_dine/helpers/iconhelper.dart';
 import 'package:dash_n_dine/pages/general_stuff/home.dart';
+import 'package:dash_n_dine/pages/menu_template/menu_mozzies.dart';
+import 'package:dash_n_dine/pages/menu_template/menu_urban.dart';
 import 'package:dash_n_dine/widgets/iconfont.dart';
 import 'package:flutter/material.dart';
 
@@ -84,7 +86,7 @@ class WelcomePage extends StatelessWidget {
                       onPressed: () {
                         Navigator.push(
                           context,
-                          MaterialPageRoute(builder: (context) => HomePage()),
+                          MaterialPageRoute(builder: (context) => UrbanMenu()),
                         );
                       },
                       child: Text('Login'), //placeholder text

@@ -7,4 +7,20 @@ class IconFontHelper {
   static const String RICE = 'dash_n_dine_assets/images/Rice.png';
   static const String SUSHI = 'dash_n_dine_assets/images/Sushi.png';
   static const String HEN = 'dash_n_dine_assets/images/Urban Hen.png';
+  static const String CATFISH = 'dash_n_dine_assets/images/catfish_po.PNG';
+  static const String FRIES = 'dash_n_dine_assets/images/fries.PNG';
+  static const String GFPIZZA = 'dash_n_dine_assets/images/gf_pizza.PNG';
+  static const String GLUTEN_FREE = 'dash_n_dine_assets/images/gf_tenders_fries.PNG';
+  static const String GRILLED_CHEESE = 'dash_n_dine_assets/images/grilled_cheese.PNG';
+  static const String HALLAL_BBQ_CHICKEN = 'dash_n_dine_assets/images/Hallal_BBQ_chicken.PNG';
+  static const String ORANGE_CHICKEN = 'dash_n_dine_assets/images/orange_chicken.PNG';
+  static const String PASTA = 'dash_n_dine_assets/images/pasta.PNG';
+  static const String PIZZA = 'dash_n_dine_assets/images/pizza.PNG';
+  static const String SKIRT_STEAK = 'dash_n_dine_assets/images/skirt_steak.PNG';
+  static const String SMASH_BURGER = 'dash_n_dine_assets/images/smash_burger.PNG';
+  static const String SOUP = 'dash_n_dine_assets/images/soup_and_chili.PNG';
+  static const String CHILI = 'dash_n_dine_assets/images/soup_and_chili.PNG';
+  static const String TENDERS = 'dash_n_dine_assets/images/tenders.PNG';
+  static const String TURKEY_MELT = 'dash_n_dine_assets/images/turkey_melt.PNG';
+  static const String VEGGIE_BURGER = 'dash_n_dine_assets/images/veggie_burger.PNG';
 }

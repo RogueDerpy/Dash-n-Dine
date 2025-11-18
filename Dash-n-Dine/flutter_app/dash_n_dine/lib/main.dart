@@ -2,6 +2,8 @@ import 'package:flutter/material.dart';
 import 'package:dash_n_dine/pages/general_stuff/home.dart';
 import 'package:dash_n_dine/pages/general_stuff/splash_screen.dart';
 import 'package:dash_n_dine/pages/general_stuff/welcome_page.dart';
+import 'package:dash_n_dine/pages/menu_template/menu_mozzies.dart';
+import 'package:dash_n_dine/pages/menu_template/menu_urban.dart';
 
 void main() {
   runApp(MaterialApp(
