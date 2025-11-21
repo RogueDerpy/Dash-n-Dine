@@ -10,6 +10,8 @@ import 'package:flutter_test/flutter_test.dart';
 
 import 'package:dash_n_dine/main.dart';
 
+import '../lib/main.dart';
+
 void main() {
   testWidgets('Counter increments smoke test', (WidgetTester tester) async {
     // Build our app and trigger a frame.
